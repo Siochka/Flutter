@@ -1,2 +1,0 @@
-![](chromepic.png)
-![](phonepic.png)
